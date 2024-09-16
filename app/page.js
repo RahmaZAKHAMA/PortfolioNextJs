@@ -1,6 +1,6 @@
 import NavbarSimple from "@/Components/NavbarSimple";
 
- 
+import Image from "next/image";
 
 
 
@@ -8,7 +8,8 @@ export default function Home() {
   return (
     <div>
       <div className="md:mt-24 container w-full h-[60vh] mx-auto">
-        <img
+        <Image
+        width={20} height={20}
           className="w-full h-full rounded-lg"
           src="/fondindex.jpg"
           alt="home"
