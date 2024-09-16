@@ -38,7 +38,7 @@ export default function Home() {
           <span className="font-bold text-red-700">.NET</span> developer, but I
           am passionate about
           <span className="font-bold text-red-700">WEB development</span> .
-          That's why I've decided to embark on a new journey as a web developer
+          Thatis why I have decided to embark on a new journey as a web developer
           with GoMYCode
           <br />
           <span>
