@@ -4,7 +4,7 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div className="h-72 bg-gray-300">
+    <div className="h-72 bg-gray-400">
       <NestedTable />
     </div>
   );
